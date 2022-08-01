@@ -33,7 +33,7 @@ Additional subclasses are available.
 [Initiative](Combat/Initiative.md) is rolled as a group.
 
 Critical hits and injuries have the potential to be more debilitating.
-- [Critical Hits](Combat/Critical Hits.md)
+- [Critical Hits](<Combat/Critical Hits.md>)
 - [Lingering Injuries](<Combat/Lingering Injuries.md>)
 
 ### Magic
