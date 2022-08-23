@@ -23,7 +23,7 @@ You can store a maximum number of Arcane Charges equal to half your level in thi
 
 *1st-level Knight-Sorcerer feature*
 
-Also at level 1, you learn the cantrip [[Arcane Blades]](<Magic/Spells/Arcane Blades.md>), which does not count against your spells known:
+Also at level 1, you learn the cantrip [[Arcane Blades]](</Magic/Spells/Arcane Blades.md>), which does not count against your spells known:
 
 #### Barrier
 
