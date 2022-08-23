@@ -30,7 +30,7 @@ Additional subclasses are available.
 - [Templar](<Character Options/Subclasses/Templar.md>)
 
 ### Combat
-[Initiative](Combat/Initiative.md) is rolled as a group.
+[Initiative](<Combat/Initiative.md>) is rolled as a group.
 
 Critical hits and injuries have the potential to be more debilitating.
 - [Critical Hits](<Combat/Critical Hits.md>)
@@ -38,9 +38,9 @@ Critical hits and injuries have the potential to be more debilitating.
 
 ### Magic
 Non-ritual spells can trigger misfires. Most magical healing options have been condensed.
-- [Spellcasting](Magic/Spellcasting.md)
-    - [Misfires](Magic/Misfire.md)
-- [Healing](Magic/Healing.md)
+- [Spellcasting](<Magic/Spellcasting.md>)
+    - [Misfires](<Magic/Misfire.md>)
+- [Healing](<Magic/Healing.md>)
 
 
 
