@@ -7,7 +7,7 @@ Roll 1d12 during character creation, gain the listed bonus. Bonuses are +1 to th
 | d20 | Effect                                                                                                                                             |
 |:---:|:---------------------------------------------------------------------------------------------------------------------------------------------------|
 |  1  | _**Hund.**_             Melee and ranged attack rolls                                                                                                         |
-|  2  | _**Whetstone.**_             Melee and ranged damage rolls                                                                                                         |
+|  2  | _**Whetstone.**_        Melee and ranged damage rolls                                                                                                         |
 |  3  | _**Seventh Child.**_    Spell attack and damage rolls                                                                                                         |
 |  4  | _**Polyglot.**_         Languages                                                                                                                  |
 |  5  | _**Rough Hands.**_      Tool proficiencies                                                                                                         |
