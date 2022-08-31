@@ -4,7 +4,7 @@ Roll 1d12 during character creation, gain the listed bonus. Bonuses are +1 to th
 
 ##### Lucky Sign Table
 
-| d20 | Effect                                                                                                                                             |
+| d20 | Effect                                                      |
 |:---:|:------------------------------------------------------------|
 |  1  | _**Hund.**_             Melee and ranged attack rolls       |
 |  2  | _**Whetstone.**_        Melee and ranged damage rolls       |
