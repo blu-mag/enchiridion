@@ -10,9 +10,9 @@ Roll 1d20 during character creation, gain the listed bonus. Bonuses are +1 to th
 | 2   | _**Hunter.**_           Ranged attack rolls                                                                                                        |
 | 3   | _**Bear.**_             Melee damage rolls                                                                                                         |
 | 4   | _**Deadeye.**_          Ranged damage rolls                                                                                                        |
-| 5   | _**Seventh Child.**_    [Spell die rolls](/Magic/Spellcasting.md)                                                                                                           |
-| 6   | _**Raging Storm.**_     Spell damage rolls                                                                                                         |
-| 7   | _**Polyglot.**_         Languages                                                                                                                  |
+| 5   | _**Raging Storm.**_     Spell damage rolls                                                                                                         |
+| 6   | _**Polyglot.**_         Languages                                                                                                                  |
+| 7   | _**Seventh Child.**_    [Spell die rolls](</Magic/Spellcasting.md>)                                                                                |
 | 8   | _**Rough Hands.**_      Tool proficiencies                                                                                                         |
 | 9   | _**Pupil.**_            Skill proficiencies                                                                                                        |
 | 10  | _**Loom.**_             Proficient skill checks                                                                                                    |
@@ -23,6 +23,6 @@ Roll 1d20 during character creation, gain the listed bonus. Bonuses are +1 to th
 | 15  | _**Knight.**_           Armor Class                                                                                                                |
 | 16  | _**The Melody.**_       Initiative rolls                                                                                                           |
 | 17  | _**Harvest.**_          Hit points (applies each level)                                                                                            |
-| 18  | _**Warrior.**_          [Critical hit rolls](</Combat/Critical Hits.md>)                                                                                                     |
-| 19  | _**The Broken Star.**_  [Misfire rolls](/Magic/Misfire.md)                                                                                                              |
+| 18  | _**Warrior.**_          [Critical hit rolls](</Combat/Critical Hits.md>)                                                                           |
+| 19  | _**The Broken Star.**_  [Misfire rolls](/Magic/Misfire.md)                                                                                         |
 | 20  | _**Wild Child.**_       Speed +5 feet                                                                                                              |
