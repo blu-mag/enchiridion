@@ -39,7 +39,7 @@ Critical hits and injuries have the potential to be more debilitating.
 ### Magic
 Non-ritual spells can trigger misfires. Most magical healing options have been condensed.
 - [Spellcasting](<Magic/Spellcasting.md>)
-    - [Misfires](<Magic/Misfire.md>)
+    - [Misfires](<Magic/Misfires.md>)
 - [Healing](<Magic/Healing.md>)
 
 
