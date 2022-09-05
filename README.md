@@ -32,7 +32,7 @@ Additional subclasses are available.
 ### Combat
 [Initiative](<Combat/Initiative.md>) is rolled as a group.
 
-[Critical hits](<Combat/Critical Hits.md>) and [injuries](<Combat/Lingering Injuries.md> have the potential to be more debilitating.
+[Critical hits](<Combat/Critical Hits.md>) and [injuries](<Combat/Lingering Injuries.md>) have the potential to be more debilitating.
 
 ### Magic
 [Spellcasting](<Magic/Spellcasting.md>) is more unpredictable. Most [magical healing](<Magic/Healing.md>) options have been condensed.
