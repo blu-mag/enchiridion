@@ -2,7 +2,7 @@
 
 # Hovse Ov Bones Enchiridion
 
-A collection of all the house rules & hacks for [*Dungeons & Dragons Fifth Edition*](https://dnd.wizards.com/resources/systems-reference-document).
+A collection of house rules & hacks for [*Dungeons & Dragons Fifth Edition*](https://dnd.wizards.com/resources/systems-reference-document).
 
 <!---
 ## Core Assumptions
