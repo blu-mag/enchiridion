@@ -2,7 +2,7 @@
 
 # Hovse Ov Bones Enchiridion
 
-A collection of all the house rules & hacks for [*Dungeons & Dragons Fifth Edition*](https://dnd.wizards.com/resources/systems-reference-document).
+A collection of house rules & hacks for [*Dungeons & Dragons Fifth Edition*](https://dnd.wizards.com/resources/systems-reference-document).
 
 <!---
 ## Core Assumptions
@@ -32,9 +32,7 @@ Additional subclasses are available.
 ### Combat
 [Initiative](<Combat/Initiative.md>) is rolled as a group.
 
-Critical hits and injuries have the potential to be more debilitating.
-- [Critical Hits](<Combat/Critical Hits.md>)
-- [Lingering Injuries](<Combat/Lingering Injuries.md>)
+[Critical hits](<Combat/Critical Hits.md>) and [injuries](<Combat/Lingering Injuries.md>) have the potential to be more debilitating.
 
 ### Magic
 Non-ritual spells can trigger misfires. Most magical healing options have been condensed.
