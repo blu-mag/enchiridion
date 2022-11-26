@@ -19,12 +19,11 @@ The damage healed varies according these factors:
 -   It is always a number of dice of the same type as the target’s hit die. For example, a fighter has a d10 hit die, so she would be healed with d10 dice.
     -   If healing a multi classed target, start with the largest hit die and work your way down.
 -   The number of dice healed cannot exceed the target’s total number of hit dice.
--   Before casting the spell, the caster can opt to attempt to heal a specific condition instead, listed below. In this case, the target’s maximum hit dice do not act as a ceiling. Overflow dice do not become healing.
-    -   Disease: 1 die
-    -   Poison: 1 die
-    -   Broken limb: 2 dice
-    -   Paralysis: 3 dice
-    -   Blindness/deafness: 4 dice
+-   Before casting the spell, the caster can opt to attempt to heal or remove a specific condition instead, listed below. In this case, the target’s maximum hit dice do not act as a ceiling. Overflow dice do not become healing.
+    -   Blinded, Deafened, Paralyzed, Poisoned: 2 dice
+    -   Disease: 3 dice
+    -   Broken limb: 4 dice
+    -   Charmed, Petrified, Cursed: 5 dice
     -   Other conditions at the DM’s discretion
 
 The caster may not heal undead, animated objects, extraplanar creatures, or constructs.
