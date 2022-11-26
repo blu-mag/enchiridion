@@ -19,5 +19,5 @@ If the target drops to 0 hit points before the spell ends, you can use a bonus a
 Classes: Cleric, Sorcerer
 
 <!---
-[Energize](https://www.dndbeyond.com/spells/1089011-energize)
+[Energize at DNDBeyond](https://www.dndbeyond.com/spells/1089011-energize)
 -->

@@ -19,5 +19,5 @@ You attempt to burn away magickal energy from a creature within range. The targe
 Classes: Cleric, Wizard
 
 <!---
-[Enervate](https://www.dndbeyond.com/spells/1089045-enervate)
+[Enervate at DNDBeyond](https://www.dndbeyond.com/spells/1089045-enervate)
 -->
